@@ -1,0 +1,4 @@
+The time complexity of this algorithm is at most O(n)  since the worse scenario is when newNode.next === null.
+
+This finds if any nodes contain the same value and if they do, they omit the node containing similar values.
+
